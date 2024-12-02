@@ -1,0 +1,1718 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: 80
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: ALL_RESET_STUFF
+      TermType: 0
+      Description: 
+      Languages:
+      - '-All gold
+
+        -All prestige points
+
+        -All prestige upgrades
+
+        -All
+        unlocked balls
+
+        -All ball upgrades
+
+        -All bucket & peg upgrades
+
+        -All
+        stats'
+      - "-\u0412\u0441\u0435 \u0437\u043E\u043B\u043E\u0442\u043E\n-\u0412\u0441\u0435
+        \u043E\u0447\u043A\u0438 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430\n-\u0412\u0441\u0435
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430\n-\u0412\u0441\u0435
+        \u043E\u0442\u043A\u0440\u044B\u0442\u044B\u0435 \u0448\u0430\u0440\u044B\n-\u0412\u0441\u0435
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u0448\u0430\u0440\u043E\u0432\n-\u0412\u0441\u0435
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u043A\u043E\u0440\u0437\u0438\u043D\u044B
+        \u0438 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432\n-\u0412\u0441\u044F
+        \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430"
+      - "<size=5>- \u3059\u3079\u3066\u306E\u30B4\u30FC\u30EB\u30C9\n- \u3059\u3079\u3066\u306E\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30FB\u30DD\u30A4\u30F3\u30C8\n-
+        \u3059\u3079\u3066\u306E\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30FB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\n-
+        \u3059\u3079\u3066\u306E\u89E3\u9664\u30DC\u30FC\u30EB\n-\u3059\u3079\u3066\u306E\u30DC\u30FC\u30EB\u306E\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\n-\u3059\u3079\u3066\u306E\u30D0\u30B1\u30C4\u3068\u30DA\u30B0\u306E\u30A2\u30C3\u30D7\u30B0\n-\u30EC\u30FC\u30C9\n-\u3059\u3079\u3066\u306E\u7D71\u8A08"
+      - "-\u6240\u6709\u91D1\u5E01\n-\u6240\u6709\u58F0\u671B\u70B9\n-\u6240\u6709\u58F0\u671B\u5347\u7EA7\n-\u6240\u6709\u89E3\u9501\u5F39\u73E0\n-\u6240\u6709\u5F39\u73E0\u5347\u7EA7\n-\u6240\u6709\u6876\u548C\u9489\u5347\u7EA7\n-\u6240\u6709\u7EDF\u8BA1\u6570\u636E"
+      - "\uC804\uCCB4 \uD669\uAE08\n\uC804\uCCB4 \uD504\uB808\uC2A4\uD2F0\uC9C0 \uC810\uC218\n\uC804\uCCB4
+        \uD504\uB808\uC2A4\uD2F0\uC9C0 \uC5C5\uADF8\uB808\uC774\uB4DC\n\uC804\uCCB4
+        \uC7A0\uAE08 \uD574\uC81C\uB41C \uACF5\n\uC804\uCCB4 \uACF5 \uC5C5\uADF8\uB808\uC774\uB4DC\n\uC804\uCCB4
+        \uD1B5 \uBC0F \uAD6C\uC2AC \uC5C5\uADF8\uB808\uC774\uB4DC\n\uC804\uCCB4 \uD1B5\uACC4"
+      - "-Tout l'or\n-Tous les points de prestige\n-Toutes les am\xE9liorations de
+        prestige\n-Toutes les balles d\xE9bloqu\xE9es\n-Toutes les am\xE9liorations
+        de balle\n-Toutes les am\xE9liorations des paniers et de pions\n-Toutes les
+        statistiques"
+      - "-Alles Gold\n-Alle Prestigepunkte\n-Alle Prestige-Upgrades\n-Alle freigeschalteten
+        B\xE4lle\n-Alle Ball-Upgrades\n-Alle Eimer- und Peg-Upgrades\n-Alle Statistiken"
+      - "-Todo el oro\n-Todos los puntos de prestigio\n-Todas las Mejoras de prestigio\n-Todas
+        las bolas desbloqueadas\n-Todas las Mejoras de bolas\n-Todas las Mejoras
+        de cubos y Pegs\n-Todas las estad\xEDsticas"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: AUTO DROP
+      TermType: 0
+      Description: 
+      Languages:
+      - AUTO DROP
+      - "<size=8.4>\u0410\u0412\u0422\u041E\u041C\u0410\u0422\u0418\u0427\u0415\u0421\u041A\u041E\u0415
+        \u0412\u042B\u041F\u0410\u0414\u0415\u041D\u0418\u0415"
+      - "\u81EA\u52D5\u30C9\u30ED\u30C3\u30D7"
+      - "\u81EA\u52A8\u6389\u843D"
+      - "\uC790\uB3D9 \uD22C\uD558"
+      - DROP AUTOMATIQUE
+      - Automatischer Drop
+      - "Ca\xEDda Autom\xE1tica"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'AUTO DROP:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'AUTO DROP:'
+      - "<size=13>\u0410\u0412\u0422\u041E\u041C\u0410\u0422\u0418\u0427\u0415\u0421\u041A\u041E\u0415
+        \u0412\u042B\u041F\u0410\u0414\u0415\u041D\u0418\u0415:"
+      - "\u81EA\u52D5\u30C9\u30ED\u30C3\u30D7:"
+      - "\u81EA\u52A8\u6389\u843D\uFF1A"
+      - "\uC790\uB3D9 \uD22C\uD558:"
+      - 'DROP AUTOMATIQUE :'
+      - 'Auto-Drop:'
+      - "Ca\xEDda Autom\xE1tica:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Achievements
+      TermType: 0
+      Description: 
+      Languages:
+      - Achievements
+      - "\u0414\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u044F"
+      - "\u5B9F\u7E3E"
+      - "\u6210\u5C31"
+      - "\uC5C5\uC801"
+      - "Succ\xE8s"
+      - Erfolge
+      - Logros
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Alata-Regular-Outline 120 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Alata-Regular-Outline 120 SDF
+      - ARIAL SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - Alata-Regular-Outline 120 SDF
+      - Alata-Regular-Outline 120 SDF
+      - Alata-Regular-Outline 120 SDF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Alphabet_Neon_Yellow
+      TermType: 9
+      Description: 
+      Languages:
+      - Alphabet_Neon_Yellow
+      - ARIAL SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - ChineseBold
+      - Alphabet_Neon_Yellow
+      - Alphabet_Neon_Yellow
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: App_Name
+      TermType: 0
+      Description: 
+      Languages:
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      - PegIdle
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'BALL BOUNCE:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'BALL BOUNCE:'
+      - "\u041E\u0422\u0421\u041A\u041E\u041A \u0428\u0410\u0420\u0410:"
+      - "\u30DC\u30FC\u30EB\u30FB\u30D0\u30A6\u30F3\u30B9:"
+      - "\u5F39\u73E0\u5F39\u8DF3\uFF1A"
+      - "\uACF5 \uBC14\uC6B4\uC2A4:"
+      - 'REBOND DE LA BALLE :'
+      - "BALLSPR\xDCNGE:"
+      - 'REBOTE DE LA BOLA:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'BALL GOLD:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'BALL GOLD:'
+      - "\u0417\u041E\u041B\u041E\u0422\u041E\u0419 \u0428\u0410\u0420:"
+      - "\u30DC\u30FC\u30EB\u30FB\u30B4\u30FC\u30EB\u30C9\uFF1A"
+      - "\u5F39\u73E0\u91D1\u5E01\uFF1A"
+      - "\uD669\uAE08 \uACF5:"
+      - 'BALLE D''OR :'
+      - 'BALLGOLD:'
+      - 'BOLA DE ORO:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BALL_STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - Ball Stats
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u0448\u0430\u0440\u0430"
+      - "\u30DC\u30FC\u30EB\u306E\u7D71\u8A08"
+      - "\u5F39\u73E0\u7EDF\u8BA1"
+      - "\uACF5 \uD1B5\uACC4"
+      - Statistiques De Balle
+      - Statistik des Balls
+      - "Estad\xEDsticas de la bola"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BOARDS_CLEARED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total board clears:'
+      - "\u0412\u0441\u0435\u0433\u043E \u043E\u0447\u0438\u0449\u0435\u043D\u043E
+        \u0434\u043E\u0441\u043E\u043A:"
+      - "\u30AF\u30EA\u30A2\u3055\u308C\u305F\u30DC\u30FC\u30C9\u306E\u5408\u8A08:"
+      - "\u603B\u8FC7\u5173\u6E38\u620F\u76D8\u6570\uFF1A"
+      - "\uCD1D \uD1B5\uACFC\uD55C \uBCF4\uB4DC \uC218:"
+      - "Total des plateaux vides\_:"
+      - 'Abgeschlossene Runden:'
+      - 'Total de tableros completados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BOARD_CLEARED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'BOARD
+
+        CLEARED'
+      - "\u0414\u041E\u0421\u041A\u0410\n\u041E\u0427\u0418\u0429\u0415\u041D\u0410"
+      - "<line-height=40><size=26>\u30DC\u30FC\u30C9\u304C\n\u30AF\u30EA\u30A2\u3055\u308C\u307E\u3057\u305F"
+      - "<line-height=40>\u677F\n\u6E05\u9664"
+      - "<line-height=40>\uD574\uB2F9 \uBCF4\uB4DC \n\uD1B5\uACFC  "
+      - "<line-height=40>PLATEAU\nVID\xC9"
+      - '<line-height=40><size=28>RUNDE
+
+        ABGESCHLOSSEN'
+      - 'TABLERO
+
+        DESPEJADO'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BUCKET (LVL0)
+      TermType: 0
+      Description: 
+      Languages:
+      - BUCKET (LVL0)
+      - "\u041A\u041E\u0420\u0417\u0418\u041D\u0410 (\u0423\u0420\u041E\u0412\u0415\u041D\u042C
+        0)"
+      - "\u30D0\u30B1\u30C4\uFF08Lv0\uFF09"
+      - "\u6876\uFF080\u7EA7\uFF09"
+      - "\uD1B5 (Lvl0)"
+      - PANIER (Lvl0)
+      - Eimer (LVL 0)
+      - Cubo (Lvl0)
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BUCKET_MULTIPLIER
+      TermType: 0
+      Description: 
+      Languages:
+      - Bucket Gold Multiplier
+      - "<size=24>\u041C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044C \u0437\u043E\u043B\u043E\u0442\u0430
+        \u0432 \u043A\u043E\u0440\u0437\u0438\u043D\u0435"
+      - "<size=22>\u30D0\u30B1\u30C4\u30B4\u30FC\u30EB\u30C9\u30DE\u30EB\u30C1\u30D7\u30E9\u30A4\u30E4\u30FC"
+      - "\u6876\uFF080\u7EA7\uFF09"
+      - "\uD669\uAE08 \uD1B5 \uC2B9\uC218"
+      - Multiplicateur D'or Panier
+      - Eimer-Gold-Multiplikator
+      - <size=21>Cublo multiplicador de oro
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BUCKET_STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - Bucket Stats
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043A\u043E\u0440\u0437\u0438\u043D\u044B"
+      - "\u30D0\u30B1\u30C4\u306E\u7D71\u8A08"
+      - "\u6876\u7EDF\u8BA1"
+      - "\uD1B5 \uD1B5\uACC4"
+      - Statistiques Du Panier
+      - Statistik des Eimers
+      - "Estad\xEDsticas del cubo"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: BallGold
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE BALL GOLD
+      - "<size=8.7>\u0423\u041B\u0423\u0427\u0428\u0415\u041D\u0418\u042F \u0417\u041E\u041B\u041E\u0422\u041E\u0413\u041E
+        \u0428\u0410\u0420\u0410"
+      - "<size=8.7>\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u30FB\u30DC\u30FC\u30EB\u30B4\u30FC\u30EB\u30C9"
+      - "\u5347\u7EA7\u5F39\u73E0\u91D1\u5E01"
+      - "\uD669\uAE08 \uAD6C\uC2AC \uC5C5\uADF8\uB808\uC774\uB4DC"
+      - "<size=11>AM\xC9LIORER LA BALLE D'OR"
+      - BALLGOLD UPGRADEN
+      - MEJORAR BOLA A ORO
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Bucket
+      TermType: 0
+      Description: 
+      Languages:
+      - Bucket
+      - "\u041A\u041E\u0420\u0417\u0418\u041D\u0410"
+      - "\u30D0\u30B1\u30C4"
+      - "\u6876"
+      - "\uD1B5"
+      - PANIER
+      - EIMER
+      - CUBO
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: CANNOT_PURCHASE_PRESTIGE
+      TermType: 0
+      Description: 
+      Languages:
+      - You cannot purchase any prestige upgrades while only viewing the prestige
+        screen.
+      - "\u0412\u044B \u043D\u0435 \u043C\u043E\u0436\u0435\u0442\u0435 \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438
+        \u043A\u0430\u043A\u0438\u0435-\u043B\u0438\u0431\u043E \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F
+        \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430, \u043F\u0440\u043E\u0441\u043C\u0430\u0442\u0440\u0438\u0432\u0430\u044F
+        \u0442\u043E\u043B\u044C\u043A\u043E \u044D\u043A\u0440\u0430\u043D \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430."
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u753B\u9762\u3092\u8868\u793A\u3057\u3066\u3044\u308B\u3060\u3051\u3067\u306F\u3001\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30FB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u8CFC\u5165\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u307E\u305B\u3093\u3002"
+      - "\u4EC5\u67E5\u770B\u5A01\u671B\u5C4F\u5E55\u65F6\uFF0C\u60A8\u65E0\u6CD5\u8D2D\u4E70\u4EFB\u4F55\u5A01\u671B\u5347\u7EA7\u3002"
+      - "\uB2E8\uC9C0 \uD504\uB808\uC2A4\uD2F0\uC9C0 \uD654\uBA74\uC744 \uBCFC \uC218
+        \uC788\uB294 \uB3D9\uC548\uC5D0\uB294 \uD504\uB808\uC2A4\uD2F0\uC9C0 \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C
+        \uAD6C\uB9E4\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4. "
+      - "Vous ne pouvez pas acheter d'am\xE9liorations de prestige en affichant uniquement
+        l'\xE9cran de prestige."
+      - "Du kannst keine Prestige-Upgrades erwerben, w\xE4hrend du nur den Prestige-Bildschirm
+        betrachtest."
+      - "No puedes comprar ninguna mejora de prestigio mientras s\xF3lo est\xE9s
+        viendo la pantalla de prestigio."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: CHARGE_TEXT
+      TermType: 0
+      Description: 
+      Languages:
+      - Only unlocked balls will be shot. Each full charge will increment the amount
+        of board clears needed for another full charge by 1. This will reset after
+        prestige.
+      - "<size=16>\u0421\u0442\u0440\u0435\u043B\u044F\u0442\u044C \u043C\u043E\u0436\u043D\u043E
+        \u0442\u043E\u043B\u044C\u043A\u043E \u0440\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u043D\u044B\u043C\u0438
+        \u0448\u0430\u0440\u0430\u043C\u0438. \u041A\u0430\u0436\u0434\u044B\u0439
+        \u043F\u043E\u043B\u043D\u044B\u0439 \u0437\u0430\u0440\u044F\u0434 \u0443\u0432\u0435\u043B\u0438\u0447\u0438\u0432\u0430\u0435\u0442
+        \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E \u043E\u0447\u0438\u0441\u0442\u043E\u043A
+        \u0434\u043E\u0441\u043A\u0438, \u043D\u0435\u043E\u0431\u0445\u043E\u0434\u0438\u043C\u043E\u0435
+        \u0434\u043B\u044F \u0435\u0449\u0435 \u043E\u0434\u043D\u043E\u0433\u043E
+        \u043F\u043E\u043B\u043D\u043E\u0433\u043E \u0437\u0430\u0440\u044F\u0434\u0430,
+        \u043D\u0430 1. \u042D\u0442\u043E \u0437\u043D\u0430\u0447\u0435\u043D\u0438\u0435
+        \u0441\u0431\u0440\u0430\u0441\u044B\u0432\u0430\u0435\u0442\u0441\u044F
+        \u043F\u043E\u0441\u043B\u0435 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044F
+        \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430."
+      - "<size=17>\u30ED\u30C3\u30AF\u3055\u308C\u3066\u3044\u306A\u3044\u30DC\u30FC\u30EB\u306E\u307F\u304C\u767A\u5C04\u3055\u308C\u307E\u3059\u3002
+        \u30D5\u30EB\u30C1\u30E3\u30FC\u30B8\u3059\u308B\u305F\u3073\u306B\u3001\u6B21\u306E\u30D5\u30EB\u30C1\u30E3\u30FC\u30B8\u306B\u5FC5\u8981\u306A\u30DC\u30FC\u30C9\u30AF\u30EA\u30A2\u6570\u304C1\u305A\u3064\u5897\u52A0\u3057\u307E\u3059\u3002\u3053\u308C\u306F\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u5F8C\u306B\u30EA\u30BB\u30C3\u30C8\u3055\u308C\u307E\u3059\u3002"
+      - "\u53EA\u6709\u672A\u9501\u5B9A\u7684\u5F39\u73E0\u624D\u4F1A\u88AB\u5C04\u51FB\u3002
+        \u6BCF\u6B21\u5B8C\u5168\u5145\u7535\u90FD\u4F1A\u4F7F\u53E6\u4E00\u6B21\u5B8C\u5168\u5145\u7535\u6240\u9700\u7684\u6E38\u620F\u76D8\u8FC7\u5173\u91CF\u589E\u52A0
+        1\u3002\u8FD9\u5C06\u5728\u5A01\u671B\u540E\u91CD\u7F6E\u3002"
+      - "\uC7A0\uAE08 \uD574\uC81C\uB41C \uACF5 \uB9CC\uC774 \uBC1C\uC0AC\uB429\uB2C8\uB2E4.
+        \uC644\uC804\uD788 \uCDA9\uC804\uB420 \uB54C\uB9C8\uB2E4 \uB2E4\uC74C \uC644\uC804
+        \uCDA9\uC804\uC5D0 \uD544\uC694\uD55C \uBCF4\uB4DC \uD1B5\uACFC \uD69F\uC218\uAC00
+        \uD558\uB098\uC529 \uC99D\uAC00\uD569\uB2C8\uB2E4. \uC774\uB294 \uD504\uB808\uC2A4\uD2F0\uC9C0
+        \uD6C4 \uC7AC\uC124\uC815\uB429\uB2C8\uB2E4. "
+      - "<size=14>Seules les balles d\xE9verrouill\xE9es seront utilis\xE9es lors
+        des tirs. Chaque fois que la charge est compl\xE8te, le nombre d'effacements
+        de plateau n\xE9cessaires pour obtenir une nouvelle charge compl\xE8te augmentera
+        de 1. Cette valeur sera r\xE9initialis\xE9e apr\xE8s le prestige."
+      - "<size=15>Es werden nur freigeschaltete B\xE4lle verwendet. Mit jedem voll
+        aufgeladenen Schuss erh\xF6ht sich die Anzahl der f\xFCr eine weitere vollst\xE4ndige
+        Aufladung ben\xF6tigten abgeschlossenen Runden um 1. Dies wird nach dem Prestige
+        zur\xFCckgesetzt."
+      - "<size=17>S\xF3lo se disparar\xE1n las bolas desbloqueadas. Cada carga completa
+        incrementar\xE1 en 1 la cantidad de despejes de tablero necesarios para otra
+        carga completa. Esto se restablecer\xE1 despu\xE9s del prestigio."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: CHOOSE_LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Choose which level to play:'
+      - "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435, \u043D\u0430 \u043A\u0430\u043A\u043E\u043C
+        \u0443\u0440\u043E\u0432\u043D\u0435 \u0438\u0433\u0440\u0430\u0442\u044C:"
+      - "\u30D7\u30EC\u30A4\u3059\u308B\u30EC\u30D9\u30EB\u3092\u9078\u629E\u3057\u3066\u304F\u3060\u3055\u3044:"
+      - "\u9009\u62E9\u8981\u73A9\u7684\u7EA7\u522B\uFF1A"
+      - "\uAC8C\uC784\uC744 \uC9C4\uD589\uD560 \uB808\uBCA8 \uC120\uD0DD\uD558\uAE30:"
+      - "Choisissez \xE0 quel niveau jouer\_:"
+      - "W\xE4hle, welches Level du spielen m\xF6chtest:"
+      - "Elige qu\xE9 nivel jugar:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: CLAIM
+      TermType: 0
+      Description: 
+      Languages:
+      - CLAIM
+      - "\u041F\u043E\u043F\u044B\u0442\u043E\u043A"
+      - "\u7533\u8ACB"
+      - "\u9886\u53D6"
+      - "\uC2E0\uCCAD"
+      - "R\xE9clamer"
+      - <size=37>Beanspruchen
+      - Reclamar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: CLOSE
+      TermType: 0
+      Description: 
+      Languages:
+      - CLOSE
+      - "\u0417\u0410\u041A\u0420\u042B\u0422\u042C"
+      - "\u9589\u3058\u308B"
+      - "\u5173\u95ED"
+      - "\uB2EB\uAE30"
+      - Fermer
+      - "Schlie\xDFen"
+      - CERRAR
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: COMPLETED
+      TermType: 0
+      Description: 
+      Languages:
+      - COMPLETED
+      - "\u041F\u043E\u043B\u043D\u044B\u0439"
+      - "\u5B8C\u4E86"
+      - "\u5B8C\u5168\u7684"
+      - "\uC644\uBCBD\uD55C"
+      - Complet
+      - "Vollst\xE4ndig"
+      - Completo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Challenges
+      TermType: 0
+      Description: 
+      Languages:
+      - Challenges
+      - "\u0417\u0430\u0434\u0430\u043D\u0438\u044F"
+      - "\u30C1\u30E3\u30EC\u30F3\u30B8"
+      - "\u6311\u6218"
+      - "\uB3C4\uC804 \uACFC\uC81C "
+      - "D\xE9fis"
+      - Herausforderungen
+      - "Desaf\xEDos"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: DEMO_LOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - Locked In The Demo
+      - "\u0417\u0430\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u043E
+        \u0432 \u0434\u0435\u043C\u043E\u0432\u0435\u0440\u0441\u0438\u0438"
+      - "\u30C7\u30E2\u306B\u9589\u3058\u8FBC\u3081\u3089\u308C\u305F"
+      - "\u9501\u5B9A\u5728\u6F14\u793A\u4E2D"
+      - "\uB370\uBAA8 \uB0B4 \uC0AC\uC6A9 \uBD88\uAC00"
+      - "Verrouill\xE9 Dans La D\xE9mo"
+      - In der Demo Gesperrt
+      - Encerrado en la Demo
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Discord
+      TermType: 0
+      Description: 
+      Languages:
+      - Discord
+      - Discord
+      - "\u4E0D\u4E00\u81F4"
+      - Discord
+      - "\uB514\uC2A4\uCF54\uB4DC"
+      - Discorde
+      - Discord
+      - Discord
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: EQUIPPED
+      TermType: 0
+      Description: 
+      Languages:
+      - EQUIPPED
+      - "\u0412\u042B\u0411\u0420\u0410\u041D\u041E"
+      - "\u88C5\u5099\u6E08\u307F"
+      - "\u88C5\u5907\u9F50\u5168"
+      - "\uC7A5\uBE44 \uAC16\uCDA4"
+      - "\xC9quip\xE9"
+      - "<size=25>AUSGER\xDCSTET"
+      - EQUIPADO
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: EXIT_PRESTIGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Exit prestige screen?
+      - "\u0412\u044B\u0439\u0442\u0438 \u0438\u0437 \u044D\u043A\u0440\u0430\u043D\u0430
+        \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430?"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u753B\u9762\u3092\u7D42\u4E86\u3057\u307E\u3059\u304B?"
+      - "\u9000\u51FA\u5A01\u671B\u5C4F\u5E55\uFF1F"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 \uD654\uBA74\uC744 \uC885\uB8CC\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - "Quitter l'\xE9cran Prestige\_?"
+      - Prestige-Bildschirm verlassen?
+      - "\xBFSalir de la pantalla de prestigio?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Every 30th ball level increases the gold increment
+      TermType: 0
+      Description: 
+      Languages:
+      - Every 30th ball level increases the gold increment
+      - "\u0421 \u043A\u0430\u0436\u0434\u044B\u043C 30-\u043C \u0443\u0440\u043E\u0432\u043D\u0435\u043C
+        \u0448\u0430\u0440\u0430 \u0440\u0430\u0441\u0442\u0435\u0442 \u043F\u0440\u043E\u0446\u0435\u043D\u0442
+        \u0437\u043E\u043B\u043E\u0442\u0430 \u0437\u0430 \u0448\u0430\u0440."
+      - "<size=9>\u30DC\u30FC\u30EB\u306E\u30EC\u30D9\u30EB\u304C30\u306B\u9054\u3059\u308B\u3054\u3068\u306B\u3001\u30DC\u30FC\u30EB\u306E\u30B4\u30FC\u30EB\u30C9\u306E\u5897\u52A0\u91CF\u304C\u5897\u52A0\u3057\u307E\u3059\u3002"
+      - "\u6BCF\u8FBE\u5230\u7B2C30\u7EA7\uFF0C\u5F39\u73E0\u7684\u91D1\u5E01\u589E\u91CF\u90FD\u4F1A\u589E\u52A0\u3002"
+      - "\uB9E4 30\uBC88\uC9F8 \uB808\uBCA8\uC5D0\uC11C, \uACF5 \uD669\uAE08 \uC99D\uAC00\uB294
+        \uB192\uC544\uC9D1\uB2C8\uB2E4. "
+      - "<size=10>\xC0 chaque fois que la balle atteint le 30e niveau, son augmentation
+        d'or est renforc\xE9e. "
+      - "<size=10.5>Alle 30 Stufen, die der Ball erreicht, erh\xF6ht sich der Goldertrag."
+      - <size=10>Cada 30 niveles que alcanza la bola, su incremento de oro de bola
+        se incrementa.
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: FredokaOne-Regular SDF border
+      TermType: 9
+      Description: 
+      Languages:
+      - FredokaOne-Regular SDF border
+      - ARIAL SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - ChineseBold
+      - ChineseBold
+      - ChineseBold
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Fullscreen
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Fullscreen:'
+      - "<size=17>\u041D\u0430 \u043F\u043E\u043B\u043D\u044B\u0439 \u044D\u043A\u0440\u0430\u043D:"
+      - "\u5168\u753B\u9762\u8868\u793A:"
+      - "\u5168\u5C4F:"
+      - "\uC804\uCCB4 \uD654\uBA74:"
+      - "Plein \xC9cran :"
+      - 'Vollbild:'
+      - '<size=16>Pantalla completa:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GAME SAVED!
+      TermType: 0
+      Description: 
+      Languages:
+      - GAME SAVED!
+      - "\u0418\u0433\u0440\u0430 \u0441\u043E\u0445\u0440\u0430\u043D\u0435\u043D\u0430!"
+      - "\u30B2\u30FC\u30E0\u30BB\u30FC\u30D6"
+      - "\u6E38\u620F\u5DF2\u4FDD\u5B58\uFF01"
+      - "\uAC8C\uC784\uC744 \uC800\uC7A5\uD558\uC600\uC2B5\uB2C8\uB2E4! "
+      - "Partie Sauvegard\xE9e\_!"
+      - Spiel gespeichert!
+      - "\xA1Juego guardado!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GENERAL_STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - General Stats
+      - "\u041E\u0431\u0449\u0430\u044F \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430"
+      - "\u4E00\u822C\u7684\u306A\u7D71\u8A08"
+      - "\u4E00\u822C\u7EDF\u8BA1\u6570\u636E"
+      - "\uC77C\uBC18 \uD1B5\uACC4"
+      - "Statistiques G\xE9n\xE9rales"
+      - Allgemein Spielstatistik
+      - "Estad\xEDsticas generales"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLD RUSH
+      TermType: 0
+      Description: 
+      Languages:
+      - '<color=yellow>GOLD
+
+        RUSH'
+      - "<color=yellow>\u0417\u043E\u043B\u043E\u0442\u0430\u044F \n\u041B\u0438\u0445\u043E\u0440\u0430\u0434\u043A\u0430"
+      - "<color=yellow>\u30B4\u30FC\u30EB\u30C9\n\u30E9\u30C3\u30B7\u30E5"
+      - "<color=yellow>\u9EC4\u91D1\n\u72C2\u6F6E"
+      - "<color=yellow>\uD669\uAE08\n\uB7EC\uC2DC"
+      - '<color=yellow>RUEE VERS
+
+        L''OR'
+      - '<color=yellow>GOLD
+
+        RAUSCHE'
+      - '<color=yellow>FIEBEW DE
+
+        ORO'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLDEN PEGS (LVL 0)
+      TermType: 0
+      Description: 
+      Languages:
+      - GOLDEN PEGS (LVL 0)
+      - "\u0417\u041E\u041B\u041E\u0422\u042B\u0415 \u041A\u041E\u041B\u042B\u0428\u041A\u0418
+        (\u0423\u0420\u041E\u0412\u0415\u041D\u042C 0)"
+      - "\u30B4\u30FC\u30EB\u30C9\u30DA\u30B0\uFF08\u30EC\u30D9\u30EB0\uFF09"
+      - "\u9EC4\u91D1\u5F69\u9489\uFF080\u7EA7\uFF09"
+      - "\uD669\uAE08 \uAD6C\uC2AC (\uB808\uBCA8 0)"
+      - "Pions Dor\xE9s (Niveau 0)"
+      - Gold-Pegs (LVL 0)
+      - PEGS DORADOS (LVL 0)
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLDEN_PEGS_HIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Golden pegs hit:'
+      - "\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u043A\u043E\u043B\u044B\u0448\u043A\u0438
+        \u043F\u043E\u0440\u0430\u0436\u0430\u044E\u0442:"
+      - "\u30B4\u30FC\u30EB\u30C9\u30DA\u30B0\u306E\u30D2\u30C3\u30C8\uFF1A"
+      - "\u9EC4\u91D1\u5F69\u9489\u51FB\u4E2D\uFF1A"
+      - "\uBA85\uC911\uD55C \uD669\uAE08 \uAD6C\uC2AC:"
+      - "Les pions dor\xE9s ont \xE9t\xE9 touch\xE9s\_:"
+      - 'Gold-Pegs getroffen:'
+      - 'Pegs dorados golpeados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLDEN_PEG_MULTIPLIER
+      TermType: 0
+      Description: 
+      Languages:
+      - Golden Peg Gold Multiplier
+      - "<size=23>\u0417\u043E\u043B\u043E\u0442\u044B\u0435 \u043A\u043E\u043B\u044B\u0448\u043A\u0438
+        \u0441 \u0437\u043E\u043B\u043E\u0442\u044B\u043C \u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u0435\u043C"
+      - "<size=22>\u30B4\u30FC\u30EB\u30C9\u30DA\u30B0\u30FB\u30B4\u30FC\u30EB\u30C9\u30DE\u30EB\u30C1\u30D7\u30E9\u30A4\u30E4\u30FC"
+      - "\u9EC4\u91D1\u5F69\u9489\u91D1\u5E01\u4E58\u6570"
+      - "\uD669\uAE08 \uAD6C\uC2AC \uD669\uAE08 \uC2B9\uC218"
+      - "Pion Dor\xE9 Multiplicateur D'or"
+      - Peg-Goldmultiplikator
+      - Multiplicador de oro del peg dorado
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLDE_PEG_CHANCE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Golden peg spawn chance:'
+      - "\u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0437\u043E\u043B\u043E\u0442\u044B\u0445 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u30B4\u30FC\u30EB\u30C7\u30F3\u30DA\u30B0\u306E\u51FA\u73FE\u78BA\u7387\uFF1A"
+      - "\u9EC4\u91D1\u5F69\u9489\u751F\u6210\u51E0\u7387\uFF1A"
+      - "\uD669\uAE08 \uAD6C\uC2AC \uC0DD\uC131 \uD655\uB960:"
+      - "Chance d'apparition des pions dor\xE9s\_:"
+      - 'Chance auf das Spawnen eines -Gold-Pegs:'
+      - "<size=20>Probabilidad de generaci\xF3n de pegs dorados:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLD_FROM_PEGS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold gained from pegs:'
+      - "\u041E\u0431\u0449\u0435\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u043E
+        \u0437\u043E\u043B\u043E\u0442\u0430, \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u043E\u0433\u043E
+        \u0441 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u30DA\u30B0\u304B\u3089\u5F97\u3089\u308C\u308B\u5408\u8A08\u30B4\u30FC\u30EB\u30C9:"
+      - "\u4ECE\u5F69\u9489\u4E2D\u83B7\u5F97\u7684\u603B\u91D1\u5E01\uFF1A"
+      - "\uAD6C\uC2AC\uB85C \uC5BB\uC740 \uCD1D \uD669\uAE08:"
+      - "Or total gagn\xE9 gr\xE2ce aux pions\_:"
+      - 'Insgesamt gewonnenes Peg-Gold:'
+      - 'Oro total obtenido de los pegs:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GOLD_GAINED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold gained:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430 \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043E:"
+      - "\u7372\u5F97\u3057\u305F\u30B4\u30FC\u30EB\u30C9\u306E\u5408\u8A08:"
+      - "\u83B7\u5F97\u7684\u603B\u91D1\u5E01\uFF1A"
+      - "\uCD1D \uD68D\uB4DD \uD669\uAE08:"
+      - "Or total gagn\xE9\_:"
+      - 'Insgesamt gewonnenes Gold:'
+      - 'Oro total ganado:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GREEN_PEGS_HIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Green pegs hit:'
+      - "\u041F\u043E\u043F\u0430\u0434\u0430\u043D\u0438\u0435 \u0437\u0435\u043B\u0435\u043D\u044B\u0445
+        \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u7DD1\u30DA\u30B0\u306E\u30D2\u30C3\u30C8:"
+      - "\u7EFF\u8272\u5F69\u9489\u51FB\u4E2D:"
+      - "\uB179\uC0C9 \uAD6C\uC2AC \uBA85\uC911:"
+      - "Les pions verts ont \xE9t\xE9 touch\xE9s :"
+      - "Gr\xFCne Pegs getroffen:"
+      - 'Pegs verdes golpeados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: GREEN_PEG_CHANCE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Green peg spawn chance:'
+      - "\u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u0437\u0435\u043B\u0435\u043D\u044B\u0445 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u7DD1\u30DA\u30B0\u306E\u51FA\u73FE\u78BA\u7387\uFF1A"
+      - "\u7EFF\u9489\u751F\u6210\u51E0\u7387\uFF1A"
+      - "\uB179\uC0C9 \uAD6C\uC2AC \uC0DD\uC131 \uD655\uB960:"
+      - "Chance d'apparition des pions verts\_:"
+      - "Spawn-Chance gr\xFCner Pegs:"
+      - "<size=20>Probabilidad de generaci\xF3n de pegs verdes:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Hold down TAB to purchase max upgrades.
+      TermType: 0
+      Description: 
+      Languages:
+      - Hold down TAB to purchase max upgrades
+      - "<size=11>\u0414\u043B\u044F \u043F\u043E\u043A\u0443\u043F\u043A\u0438 \u043C\u0430\u043A\u0441\u0438\u043C\u0430\u043B\u044C\u043D\u044B\u0445
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0439 \u0443\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0439\u0442\u0435
+        \u043A\u043B\u0430\u0432\u0438\u0448\u0443 TAB"
+      - "<size=13>TAB\u30AD\u30FC\u3092\u62BC\u3057\u306A\u304C\u3089\u6700\u5927\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u8CFC\u5165"
+      - "\u6309\u4F4F TAB \u952E\u4EE5\u8D2D\u4E70\u6700\u5927\u5347\u7EA7"
+      - "<size=12>\uCD5C\uB300 \uC5C5\uADF8\uB808\uC774\uB4DC \uAD6C\uB9E4\uB97C
+        \uC704\uD574 \uD0ED \uBC84\uD2BC\uC744 \uAFB9 \uB20C\uB7EC \uC8FC\uC2ED\uC2DC\uC624. "
+      - "<size=10>Maintenez TAB enfonc\xE9 pour acheter des am\xE9liorations maximales. "
+      - "Halte TAB gedr\xFCckt, um max. Upgrades zu kaufen."
+      - "<size=10>Mant\xE9n presionada TAB para comprar mejoras m\xE1ximas"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: INCOMPLETE
+      TermType: 0
+      Description: 
+      Languages:
+      - INCOMPLETE
+      - "\u041D\u0435\u043F\u043E\u043B\u043D\u044B\u0439"
+      - "\u4E0D\u5B8C\u5168\u306A"
+      - "\u4E0D\u5B8C\u6574\u7684"
+      - "\uBD88\uC644\uC804\uD55C"
+      - Incomplet
+      - "Unvollst\xE4ndig"
+      - Incompleto
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Insta equip balls with the 1-9 keys.
+      TermType: 0
+      Description: 
+      Languages:
+      - Insta equip balls with the 1-9 keys.
+      - "\u0412\u044B\u0431\u043E\u0440 \u0448\u0430\u0440\u043E\u0432 \u0441 \u043F\u043E\u043C\u043E\u0449\u044C\u044E
+        \u043A\u043B\u0430\u0432\u0438\u0448 1-9"
+      - "1\uFF5E9\u30AD\u30FC\u3067\u30DC\u30FC\u30EB\u3092\u88C5\u5099"
+      - "\u4F7F\u7528 1-9 \u952E\u5FEB\u901F\u88C5\u5907\u5F39\u73E0"
+      - "1-9\uC22B\uC790 \uBC84\uD2BC\uC744 \uB20C\uB7EC \uC7A5\uBE44\uB97C \uBC14\uB85C
+        \uC7A5\uCC29\uD560 \uC218 \uC788\uC2B5\uB2C8\uB2E4. "
+      - "<size=10>Attribuez des balles d'\xE9quipement instantan\xE9 aux touches
+        1 \xE0 9"
+      - "B\xE4lle sofort mit den Tasten 1-9 ausr\xFCsten"
+      - Equipa las bolas al instante con las teclas 1-9
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: JosefinSans-Bold SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - JosefinSans-Bold SDF
+      - JosefinSans-Bold SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - JosefinSans-Bold SDF
+      - JosefinSans-Bold SDF
+      - JosefinSans-Bold SDF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LEVEL
+      TermType: 0
+      Description: 
+      Languages:
+      - LEVEL
+      - "<size=21>\u0423\u0420\u041E\u0412\u0415\u041D\u042C"
+      - "\u30EC\u30D9\u30EB"
+      - "\u7B49\u7EA7"
+      - "\uB808\uBCA8 "
+      - '<size=29>NIVEAU  '
+      - LEVEL
+      - NIVEL
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LEVELS_UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Levels unlocked:'
+      - "\u0423\u0440\u043E\u0432\u043D\u0438 \u0440\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u044B:"
+      - "\u30EC\u30D9\u30EB\u306E\u30ED\u30C3\u30AF\u304C\u89E3\u9664\u3055\u308C\u307E\u3057\u305F:"
+      - "\u5DF2\u89E3\u9501\u5173\u5361:"
+      - "\uC7A0\uAE08 \uD574\uC81C\uB41C \uB808\uBCA8:"
+      - "Niveaux d\xE9bloqu\xE9s :"
+      - 'Level freigeschaltet:'
+      - 'Niveles desbloqueados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: LilitaOne-Regular Outline_Extended ASCII_72 SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - LilitaOne-Regular Outline_Extended ASCII_72 SDF
+      - ARIAL SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - LilitaOne-Regular Outline_Extended ASCII_72 SDF
+      - LilitaOne-Regular Outline_Extended ASCII_72 SDF
+      - LilitaOne-Regular Outline_Extended ASCII_72 SDF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: MAX
+      TermType: 0
+      Description: 
+      Languages:
+      - MAX
+      - "\u041C\u0410\u041A\u0421."
+      - "\u6700\u5927"
+      - "\u6700\u5927"
+      - "\uCD5C\uB300 "
+      - MAX
+      - Max
+      - "M\xC1X"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NO
+      TermType: 0
+      Description: 
+      Languages:
+      - NO
+      - "\u041D\u0415\u0422"
+      - "<size=17>\u3044\u3044\u3048"
+      - "\u5426"
+      - "<size=19>\uC544\uB2C8\uC694"
+      - 'NON    '
+      - NEIN
+      - No
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NO_ACH
+      TermType: 0
+      Description: 
+      Languages:
+      - No achievements in the demo :(
+      - "\u0412 \u0434\u0435\u043C\u043E\u0432\u0435\u0440\u0441\u0438\u0438 \u043D\u0435\u0442
+        \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0439 :("
+      - "\u30C7\u30E2\u306B\u306F\u6210\u679C\u306F\u3042\u308A\u307E\u305B\u3093:("
+      - "\u6F14\u793A\u4E2D\u6CA1\u6709\u6210\u5C31:("
+      - "\uB370\uBAA8 \uB0B4 \uC5C5\uC801 \uC5C6\uC74C :("
+      - "Aucune r\xE9alisation dans la d\xE9mo :("
+      - Keine Erfolge in der Demo :(
+      - No hay logros en la demo :(
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: NO_CHA
+      TermType: 0
+      Description: 
+      Languages:
+      - No challenges in the demo :(
+      - "\u0412 \u0434\u0435\u043C\u043E\u0432\u0435\u0440\u0441\u0438\u0438 \u043D\u0435\u0442
+        \u0438\u0441\u043F\u044B\u0442\u0430\u043D\u0438\u0439 :("
+      - "\u30C7\u30E2\u306B\u306F\u30C1\u30E3\u30EC\u30F3\u30B8\u306F\u3042\u308A\u307E\u305B\u3093:("
+      - "\u6F14\u793A\u4E2D\u6CA1\u6709\u6311\u6218:("
+      - "\uB370\uBAA8 \uB0B4 \uB3C4\uC804\uACFC\uC81C \uC5C6\uC74C :("
+      - "Aucun d\xE9fi dans la d\xE9mo :("
+      - Keine Herausforderungen in der Demo :(
+      - "No hay desaf\xEDos en la demo :("
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: OFF
+      TermType: 0
+      Description: 
+      Languages:
+      - OFF
+      - "\u0412\u042B\u041A\u041B"
+      - "\u30AA\u30D5"
+      - "\u5173\u95ED"
+      - "\uB044\uAE30 "
+      - "<size=25>D\xC9SACTIV\xC9"
+      - AUS
+      - OFF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: OK!
+      TermType: 0
+      Description: 
+      Languages:
+      - OK!
+      - "\u041E\u041A!"
+      - OK
+      - "\u597D\u7684"
+      - "\uD655\uC778! "
+      - OK
+      - OK!
+      - "\xA1OK!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: ON
+      TermType: 0
+      Description: 
+      Languages:
+      - ON
+      - "\u0412\u041A\u041B"
+      - "\u30AA\u30F3"
+      - "\u5F00\u542F"
+      - "\uCF1C\uAE30"
+      - "<size=35>ACTIV\xC9"
+      - AN
+      - ON
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PEGS_UNLOCKED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Pegs unlocked:'
+      - "\u041A\u043E\u043B\u044B\u0448\u043A\u043E\u0432 \u0440\u0430\u0437\u0431\u043B\u043E\u043A\u0438\u0440\u043E\u0432\u0430\u043D\u043E:"
+      - "\u89E3\u9664\u30DA\u30B0\u6570\uFF1A"
+      - "\u5F69\u9489\u89E3\u9501\uFF1A"
+      - "\uC7A0\uAE08 \uD574\uC81C\uB41C \uAD6C\uC2AC:"
+      - "Pions d\xE9bloqu\xE9s\_:"
+      - 'Pegs freigeschaltet:'
+      - 'Pegs desbloqueados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PEG_STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Peg Stats:'
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u30DA\u30B0\u7D71\u8A08:"
+      - "\u5F69\u9489\u7EDF\u8BA1:"
+      - "\uAD6C\uC2AC \uD1B5\uACC4: "
+      - 'Statistiques De Pion:'
+      - 'Peg-Statistiken:'
+      - "Estad\xEDsticas de pegs:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE
+      TermType: 0
+      Description: 
+      Languages:
+      - PRESTIGE
+      - "\u041F\u0420\u0415\u0421\u0422\u0418\u0416"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8"
+      - "\u5A01\u671B"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 "
+      - Prestige
+      - Prestige
+      - PRESTIGIO
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE RUSH
+      TermType: 0
+      Description: 
+      Languages:
+      - '<color=orange>PRESTIGE
+
+        RUSH'
+      - "<color=orange>\u041B\u0418\u0425\u041E\u0420\u0410\u0414\u041A\u0423\n\u041F\u0420\u0415\u0421\u0422\u0418\u0416\u0410!"
+      - "<color=orange>\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\n\u30E9\u30C3\u30B7\u30E5"
+      - "<color=orange>\u5A01\u671B\n\u72C2\u6F6E"
+      - "<color=orange>\uD504\uB808\uC2A4\uD2F0\uC9C0\n\uB7EC\uC2DC"
+      - "<color=orange>RU\xC9E DE\nPRESTIGE"
+      - '<color=orange>PRESTIGE
+
+        RAUSCH'
+      - '<color=orange>FIEBRE DE
+
+        PRESTIGIO'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_EXPLINATION
+      TermType: 0
+      Description: 
+      Languages:
+      - Your current progress will be lost. You will be taken to the pegscension
+        skill tree where you can purchase permanent upgrades.
+      - "\u0412\u0430\u0448 \u0442\u0435\u043A\u0443\u0449\u0438\u0439 \u043F\u0440\u043E\u0433\u0440\u0435\u0441\u0441
+        \u0431\u0443\u0434\u0435\u0442 \u043F\u043E\u0442\u0435\u0440\u044F\u043D.
+        \u0412\u044B \u043F\u043E\u043F\u0430\u0434\u0435\u0442\u0435 \u043D\u0430
+        \u0434\u0435\u0440\u0435\u0432\u043E \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u043D\u044B\u0445
+        \u043D\u0430\u0432\u044B\u043A\u043E\u0432, \u0433\u0434\u0435 \u043C\u043E\u0436\u043D\u043E
+        \u043F\u0440\u0438\u043E\u0431\u0440\u0435\u0441\u0442\u0438 \u043F\u043E\u0441\u0442\u043E\u044F\u043D\u043D\u044B\u0435
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F."
+      - "\u73FE\u5728\u306E\u9032\u884C\u72B6\u6CC1\u306F\u5931\u308F\u308C\u307E\u3059\u3002\u6052\u4E45\u7684\u306A\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9\u3092\u8CFC\u5165\u3067\u304D\u308B\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30B9\u30AD\u30EB\u30C4\u30EA\u30FC\u306B\u79FB\u52D5\u3057\u307E\u3059\u3002"
+      - "\u60A8\u5F53\u524D\u7684\u8FDB\u5EA6\u5C06\u4F1A\u4E22\u5931\u3002\u60A8\u5C06\u88AB\u5E26\u5230
+        \u5A01\u671B\u6280\u80FD\u6811\uFF0C\u60A8\u53EF\u4EE5\u5728\u5176\u4E2D\u8D2D\u4E70\u6C38\u4E45\u5347\u7EA7\u3002"
+      - "\uD604\uC7AC \uC9C4\uD589 \uC0C1\uD669\uC774 \uC0AC\uB77C\uC9D1\uB2C8\uB2E4.
+        \uC601\uAD6C \uC5C5\uADF8\uB808\uC774\uB4DC\uB97C \uAD6C\uB9E4\uD560 \uC218
+        \uC788\uB294 \uD504\uB808\uC2A4\uD2F0\uC9C0 \uC2A4\uD0AC \uD2B8\uB9AC\uB85C
+        \uC774\uB3D9\uD560 \uAC83\uC785\uB2C8\uB2E4. "
+      - "Votre progression actuelle sera perdue. Vous serez redirig\xE9 vers l\u2019arbre
+        de comp\xE9tences prestige, o\xF9 vous pourrez acqu\xE9rir des am\xE9liorations
+        permanentes."
+      - Dein aktueller Fortschritt geht verloren. Du wirst zum Pegscension-Fertigkeitsbaum
+        weitergeleitet, wo du dauerhafte Upgrades erwerben kannst.
+      - "Tu progreso actual se perder\xE1. Pasar\xE1s al \xE1rbol de habilidades
+        de prestigio, donde podr\xE1s comprar mejoras permanentes."
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_PEGS_HIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Prestige pegs hit:'
+      - "\u0412\u044B\u0431\u0438\u0442\u044B\u0445 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432
+        \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430:"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30DA\u30B0\u306E\u30D2\u30C3\u30C8\uFF1A"
+      - "\u5A01\u671B\u5F69\u9489\u51FB\u4E2D\uFF1A"
+      - "\uBA85\uC911\uD55C \uD504\uB808\uC2A4\uD2F0\uC9C0 \uAD6C\uC2AC:"
+      - "Les pions de prestige touch\xE9s\_:"
+      - 'Prestige-Pegs getroffen:'
+      - 'Pegs de prestigio golpeados:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_PEG_CHANCE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Prestige peg spawn chance:'
+      - "\u0428\u0430\u043D\u0441 \u043F\u043E\u044F\u0432\u043B\u0435\u043D\u0438\u044F
+        \u043A\u043E\u043B\u044B\u0448\u043A\u0430 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430:"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30DA\u30B0\u306E\u51FA\u73FE\u78BA\u7387:"
+      - "\u5A01\u671B\u5F69\u9489\u4EA7\u751F\u51E0\u7387\uFF1A"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 \uAD6C\uC2AC \uC0DD\uC131 \uD655\uB960:"
+      - "Chance d'apparition du pion Prestige\_:"
+      - 'Chance auf Prestige-Peg-Spawn:'
+      - "<size=20>Probabilidad de generaci\xF3n de pegs de prestigio:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_POINTS_PEGS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Prestige points from prestige peg:'
+      - "<size=22>\u041E\u0447\u043A\u0438 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430
+        \u043E\u0442 \u043A\u043E\u043B\u044B\u0448\u043A\u0430 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430:"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30DA\u30B0\u304B\u3089\u306E\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30DD\u30A4\u30F3\u30C8:"
+      - "\u6765\u81EA\u5A01\u671B\u5F69\u9489\u7684\u5A01\u671B\u5206\uFF1A"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 \uAD6C\uC2AC\uC758 \uD504\uB808\uC2A4\uD2F0\uC9C0
+        \uC810\uC218:"
+      - "<size=18.5>Points de prestige obtenus gr\xE2ce aux pions de prestige\_:"
+      - 'Prestigepunkte durch Prestige-Pegs:'
+      - 'Puntos de prestigio de pegs de prestigio:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_STATS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Prestige Stats:'
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430 \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430:"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u7D71\u8A08:"
+      - "\u5A01\u671B\u7EDF\u8BA1:"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 \uD1B5\uACC4:"
+      - 'Statistiques De Prestige :'
+      - 'Prestige-Statistik:'
+      - "Estad\xEDsticas de prestigio:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PRESTIGE_UPGRADES
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Prestige upgrades purchased:'
+      - "\u041F\u0440\u0438\u043E\u0431\u0440\u0435\u0442\u0435\u043D\u043D\u044B\u0435
+        \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u044F \u043F\u0440\u0435\u0441\u0442\u0438\u0436\u0430:"
+      - "\u8CFC\u5165\u3057\u305F\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u30FB\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9:"
+      - "\u5DF2\u8D2D\u4E70\u7684\u5A01\u671B\u5347\u7EA7\uFF1A"
+      - "\uAD6C\uB9E4\uD55C \uD504\uB808\uC2A4\uD2F0\uC9C0 \uC5C5\uADF8\uB808\uC774\uB4DC:"
+      - "Surclassements Prestige achet\xE9s\_:"
+      - 'Gekaufte Prestige-Upgrades:'
+      - 'Mejoras de prestigio compradas:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PURCHASE_BALL
+      TermType: 0
+      Description: 
+      Languages:
+      - PURCHASE BALL
+      - "\u041A\u0423\u041F\u0418\u0422\u042C \u0428\u0410\u0420"
+      - "\u30DC\u30FC\u30EB\u3092\u8CFC\u5165\u3059\u308B"
+      - "\u8D2D\u4E70\u5F39\u73E0"
+      - "\uACF5 \uAD6C\uB9E4\uD558\uAE30"
+      - Acheter Une Balle
+      - BALL KAUFEN
+      - COMPRAR BOLA
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Pegs
+      TermType: 0
+      Description: 
+      Languages:
+      - Pegs
+      - "\u0428\u0410\u0420\u0418\u041A\u0418"
+      - "\u30DA\u30B0"
+      - "\u5F69\u9489"
+      - "\uAD6C\uC2AC"
+      - "DOR\xC9S"
+      - PEGS
+      - PEGS
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Prestige Points
+      TermType: 0
+      Description: 
+      Languages:
+      - 'PRESTIGE
+
+        POINTS'
+      - "<line-height=50><size=29>\u041E\u0427\u041A\u0418\n\u041F\u0420\u0415\u0421\u0422\u0418\u0416\u0410"
+      - "<size=31>\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\n\u30DD\u30A4\u30F3\u30C8"
+      - "\u5A01\u671B\u79EF\u5206"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0 \n\uC810\uC218"
+      - "POINTS DE \nPRESTIGE"
+      - 'PRESTIGE
+
+        PUNKTE'
+      - 'PUNTOS
+
+        PRESTIGIO'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: REGULAR_BALLS_DROPPED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Regular balls dropped:'
+      - "\u041E\u0431\u044B\u0447\u043D\u044B\u0445 \u0448\u0430\u0440\u043E\u0432
+        \u0432\u044B\u043F\u0430\u043B\u043E:"
+      - "\u901A\u5E38\u306E\u30DC\u30FC\u30EB\u304C\u30C9\u30ED\u30C3\u30D7\u3055\u308C\u307E\u3057\u305F:"
+      - "\u5E38\u89C4\u843D\u5F39\u73E0\uFF1A"
+      - "\uD22C\uD558\uB41C \uC77C\uBC18 \uACF5: "
+      - "Balles r\xE9guli\xE8res l\xE2ch\xE9es\_:"
+      - "Regul\xE4re B\xE4lle verloren:"
+      - "Bolas regulares ca\xEDdas:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: REGULAR_BALL_SHOT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Regular balls shot:'
+      - "\u041E\u0431\u044B\u0447\u043D\u044B\u0445 \u0448\u0430\u0440\u043E\u0432
+        \u0441\u0431\u0438\u0442\u043E:"
+      - "\u901A\u5E38\u306E\u30DC\u30FC\u30EB\u30B7\u30E7\u30C3\u30C8:"
+      - "\u5E38\u89C4\u51FB\u5F39\u73E0\uFF1A"
+      - "\uC77C\uBC18 \uACF5 \uBC1C\uC0AC: "
+      - "Balles r\xE9guli\xE8res tir\xE9es\_:"
+      - "Normal geschossene B\xE4lle:"
+      - 'Bolas regulares lanzadas:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Reset
+      TermType: 0
+      Description: 
+      Languages:
+      - Reset
+      - "\u0421\u0431\u0440\u043E\u0441\u0438\u0442\u044C"
+      - "\u30EA\u30BB\u30C3\u30C8"
+      - "\u91CD\u7F6E"
+      - "\uCD08\uAE30\uD654"
+      - "<size=19>R\xE9initialiser"
+      - "<size=18>Zur\xFCcksetzen"
+      - Reiniciar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Roboto-Bold SDF
+      TermType: 9
+      Description: 
+      Languages:
+      - Fonts & Materials/Roboto-Bold SDF
+      - ARIAL SDF
+      - JP_NEW_BOLD
+      - SC_NEW__BOLD
+      - KR_BOLD_USETHIS
+      - Fonts & Materials/Roboto-Bold SDF
+      - Fonts & Materials/Roboto-Bold SDF
+      - Fonts & Materials/Roboto-Bold SDF
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SET AUTO DROP ON ALL BALLS
+      TermType: 0
+      Description: 
+      Languages:
+      - "SET AUTO DROP \nON ALL BALLS"
+      - "\u0423\u0441\u0442\u0430\u043D\u043E\u0432\u0438\u0442\u044C \u0430\u0432\u0442\u043E\u0441\u0431\u0440\u043E\u0441
+        \u043D\u0430 \u0432\u0441\u0435\u0445 \u0448\u0430\u0440\u0430\u0445"
+      - "\u3059\u3079\u3066\u306E\u30DC\u30FC\u30EB\u306E\u30AA\u30FC\u30C8\u30C9\u30ED\u30C3\u30D7\u3092\u8A2D\u5B9A"
+      - "\u8BBE\u7F6E\u6240\u6709\u5F39\u73E0\u81EA\u52A8\u6389\u843D"
+      - "\uBAA8\uB4E0 \uACF5 \uC790\uB3D9 \uD22C\uD558 \uC124\uC815"
+      - "R\xE9gler le l\xE2cher automatique sur toutes les balles"
+      - "Automatischen Drop bei allen B\xE4llen einstellen"
+      - "Configurar la ca\xEDda autom\xE1tica en todas las bolas"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: SURE_WANT_RESET
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure you want to completely reset the game?
+      - "\u0412\u044B \u0443\u0432\u0435\u0440\u0435\u043D\u044B, \u0447\u0442\u043E
+        \u0445\u043E\u0442\u0438\u0442\u0435 \u043F\u043E\u043B\u043D\u043E\u0441\u0442\u044C\u044E
+        \u0441\u0431\u0440\u043E\u0441\u0438\u0442\u044C \u0438\u0433\u0440\u0443?"
+      - "<size=7>\u30B2\u30FC\u30E0\u3092\u5B8C\u5168\u306B\u30EA\u30BB\u30C3\u30C8\u3057\u3066\u3082\u3088\u308D\u3057\u3044\u3067\u3059\u304B\uFF1F"
+      - "\u60A8\u786E\u5B9A\u8981\u5B8C\u5168\u91CD\u7F6E\u6E38\u620F\u5417\uFF1F"
+      - "\uAC8C\uC784\uC744 \uCD08\uAE30\uD654\uD558\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - "\xCAtes-vous s\xFBr de vouloir r\xE9initialiser compl\xE8tement le jeu\_?"
+      - "Bist du sicher, dass du das Spiel vollst\xE4ndig zur\xFCcksetzen m\xF6chtest?"
+      - "\xBFEst\xE1s seguro de que quieres reiniciar completamente el juego?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'Select purchase type:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Select purchase type:'
+      - "\u0412\u044B\u0431\u0435\u0440\u0438\u0442\u0435 \u0442\u0438\u043F \u043F\u043E\u043A\u0443\u043F\u043A\u0438:"
+      - "\u8CFC\u5165\u30BF\u30A4\u30D7\u3092\u9078\u629E"
+      - "\u9009\u62E9\u8D2D\u4E70\u7684\u7C7B\u522B\uFF1A"
+      - "\uAD6C\uB9E4 \uC720\uD615 \uC120\uD0DD\uD558\uAE30: "
+      - "<size=12>S\xE9lectionnez le type d'achat :"
+      - "W\xE4hle eine Kaufart:"
+      - '<size=12>Selecciona el tipo de compra:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+      - "\u8A2D\u5B9A"
+      - "\u8BBE\u7F6E"
+      - "\uC124\uC815"
+      - "Param\xE8tres"
+      - Einstellungen
+      - Ajustes
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Settings_Quit
+      TermType: 0
+      Description: 
+      Languages:
+      - Quit
+      - "\u0412\u044B\u0439\u0442\u0438"
+      - "\u3084\u3081\u308B"
+      - "\u79BB\u5F00"
+      - "<size=20>\uADF8\uB9CC\uB450\uAE30"
+      - Quitter
+      - <size=17>Beenden
+      - <size=13.5>Abandonar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Settings_Save
+      TermType: 0
+      Description: 
+      Languages:
+      - Save
+      - "<size=17>\u0421\u043E\u0445\u0440\u0430\u043D\u0438\u0442\u044C"
+      - "\u4FDD\u5B58"
+      - "\u50A8\u5B58"
+      - "\uC800\uC7A5"
+      - <size=14>Sauvegarder
+      - <size=19>Speichern
+      - <size=21>Guardar
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Statistics
+      TermType: 0
+      Description: 
+      Languages:
+      - Statistics
+      - "\u0421\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430"
+      - "\u7D71\u8A08"
+      - "\u7EDF\u8BA1\u6570\u636E"
+      - "\uD1B5\uACC4"
+      - Statistiques
+      - Statistik
+      - "Estad\xEDsticas"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_ACTIVEGOLD_INCREASE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Balls shot gold increase:'
+      - "<size=20>\u0423\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435 \u043A\u043E\u043B\u0438\u0447\u0435\u0441\u0442\u0432\u0430
+        \u0432\u044B\u0431\u0438\u0442\u044B\u0445 \u0437\u043E\u043B\u043E\u0442\u044B\u0445
+        \u0448\u0430\u0440\u043E\u0432:"
+      - "\u30DC\u30FC\u30EB\u30B7\u30E7\u30C3\u30C8\u30B4\u30FC\u30EB\u30C9\u306E\u5897\u52A0:"
+      - "\u5F39\u73E0\u5C04\u91D1\u5E01\u589E\u52A0\uFF1A"
+      - "\uACF5 \uBC1C\uC0AC \uBC0F \uD669\uAE08 \uC99D\uAC00:  "
+      - "Les balles tir\xE9es en or augmentent\_:"
+      - "Golderh\xF6hung durch Ballsch\xFCsse:"
+      - 'Aumento de oro de tiro de bolas:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_BALLS_DROPPED
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total balls dropped:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0448\u0430\u0440\u043E\u0432 \u0432\u044B\u043F\u0430\u043B\u043E:"
+      - "\u30C9\u30ED\u30C3\u30D7\u3055\u308C\u305F\u30DC\u30FC\u30EB\u306E\u5408\u8A08:"
+      - "\u6389\u5F39\u73E0\u603B\u6570\uFF1A"
+      - "\uCD1D \uD22C\uD558\uB41C \uACF5: "
+      - "Total de balles l\xE2ch\xE9es\_:"
+      - "Insgesamt verlorene B\xE4lle:"
+      - "Total de bolas ca\xEDdas:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_BALLS_SHOT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total balls shot:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0432\u044B\u0431\u0438\u0442\u044B\u0445
+        \u0448\u0430\u0440\u043E\u0432:"
+      - "\u7DCF\u30B7\u30E5\u30FC\u30C8\u6570:"
+      - "\u603B\u5C04\u95E8\u6570\uFF1A"
+      - "\uCD1D \uBC1C\uC0AC\uB41C \uACF5:"
+      - "Nombre total de balles tir\xE9es\_:"
+      - "Insgesamt geschossene B\xE4lle:"
+      - 'Total de bolas lanzadas:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_BUCKET_BALLS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total balls dropped into the bucket:'
+      - "\u0412\u0441\u0435\u0433\u043E \u043F\u043E\u043F\u0430\u0434\u0430\u043D\u0438\u0439
+        \u0448\u0430\u0440\u043E\u0432 \u0432 \u043A\u043E\u0440\u0437\u0438\u043D\u0443:"
+      - "\u30D0\u30B1\u30C4\u306B\u843D\u3061\u305F\u30DC\u30FC\u30EB\u306E\u7DCF\u6570:"
+      - "\u843D\u5165\u6876\u4E2D\u7684\u5F39\u73E0\u603B\u6570\uFF1A"
+      - "\uCD1D \uD1B5\uC73C\uB85C \uB5A8\uC5B4\uC9C4 \uACF5:"
+      - "<size=20>Nombre total de balles tomb\xE9es dans le panier\_:"
+      - "Insgesamt in den Eimer gefallene B\xE4lle:"
+      - "Total de bolas ca\xEDdas en el cubo:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_BUCKET_GOLD
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold gained from the bucket:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430, \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u043E\u0433\u043E
+        \u043E\u0442 \u043A\u043E\u0440\u0437\u0438\u043D\u044B:"
+      - "\u30D0\u30B1\u30C4\u304B\u3089\u5F97\u305F\u5408\u8A08\u30B4\u30FC\u30EB\u30C9\u6570\uFF1A"
+      - "\u4ECE\u6876\u4E2D\u83B7\u5F97\u7684\u603B\u91D1\u5E01\uFF1A"
+      - "\uCD1D \uD1B5\uC5D0\uC11C \uC5BB\uC740 \uD669\uAE08: "
+      - "Or total gagn\xE9 dans le panier\_:"
+      - '<size=21>Insgesamt durch den Eimer gewonnenes Gold:'
+      - 'Oro total obtenido del cubo:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_GOLD_INCREASE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold increase:'
+      - "\u041E\u0431\u0449\u0435\u0435 \u0443\u0432\u0435\u043B\u0438\u0447\u0435\u043D\u0438\u0435
+        \u0437\u043E\u043B\u043E\u0442\u0430:"
+      - "\u30B4\u30FC\u30EB\u30C9\u306E\u5897\u52A0\u5408\u8A08:"
+      - "\u91D1\u5E01\u603B\u91CF\u589E\u52A0:"
+      - "\uCD1D \uC99D\uAC00\uB41C \uD669\uAE08: "
+      - 'Augmentation totale de l''or:'
+      - 'Gesamtgoldzuwachs:'
+      - 'Aumento total del oro:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_GOLD_PEGS
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold gained from pegs:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0437\u043E\u043B\u043E\u0442\u0430, \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u043E\u0433\u043E
+        \u043E\u0442 \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u30DA\u30B0\u304B\u3089\u5F97\u3089\u308C\u308B\u30B4\u30FC\u30EB\u30C9\u5408\u8A08\uFF1A"
+      - "\u4ECE\u5F69\u9489\u4E2D\u83B7\u5F97\u7684\u603B\u91D1\u5E01\uFF1A"
+      - "\uCD1D \uAD6C\uC2AC\uB85C \uC5BB\uC740 \uD669\uAE08:"
+      - "Or total gagn\xE9 gr\xE2ce aux pions\_:"
+      - 'Insgesamt durch Pegs gewonnenes Gold:'
+      - 'Oro total obtenido de los pegs:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_GOLD_SPENT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total gold spent:'
+      - "\u0412\u0441\u0435\u0433\u043E \u043F\u043E\u0442\u0440\u0430\u0447\u0435\u043D\u043E
+        \u0437\u043E\u043B\u043E\u0442\u0430:"
+      - "\u6D88\u8CBB\u30B4\u30FC\u30EB\u30C9\u5408\u8A08:"
+      - "\u82B1\u8D39\u7684\u91D1\u5E01\u603B\u989D\uFF1A"
+      - "\uCD1D \uC0AC\uC6A9\uD55C \uD669\uAE08:"
+      - "Or total d\xE9pens\xE9\_:"
+      - 'Insgesamt ausgegebenes Gold:'
+      - 'Oro total gastado:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: TOTAL_PEGS_HIT
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total pegs hit:'
+      - "\u0412\u0441\u0435\u0433\u043E \u0432\u044B\u0431\u0438\u0442\u044B\u0445
+        \u043A\u043E\u043B\u044B\u0448\u043A\u043E\u0432:"
+      - "\u5408\u8A08\u30DA\u30B0\u30D2\u30C3\u30C8\u6570\uFF1A"
+      - "\u603B\u51FB\u4E2D\u5F69\u9489\u6570\uFF1A"
+      - "\uCD1D \uBA85\uC911\uD55C \uAD6C\uC2AC:"
+      - "Total des pions touch\xE9s\_:"
+      - 'Insgesamt getroffene Pegs:'
+      - 'Total de pegs golpedaos:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'Times fully chsrged the shooter:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Times fully charged the shooter:'
+      - "\u041F\u043E\u043B\u043D\u044B\u0445 \u0437\u0430\u0440\u044F\u0434\u043E\u0432
+        \u043F\u0443\u0448\u043A\u0438:"
+      - "\u56DE\u306F\u30B7\u30E5\u30FC\u30BF\u30FC\u3092\u30D5\u30EB\u30C1\u30E3\u30FC\u30B8\uFF1A"
+      - "\u5B8C\u5168\u5145\u80FD\u53D1\u5C04\u5668\u7684\u6B21\u6570\uFF1A"
+      - "\uACF5\uC744 \uC3D8\uB294 \uAE30\uACC4\uB97C \uC644\uC804 \uCDA9\uC804\uD558\uB294
+        \uD69F\uC218: "
+      - "<size=17>Nombre de fois o\xF9 le lanceur a \xE9t\xE9 compl\xE8tement charg\xE9
+        :"
+      - "Vollst\xE4ndige Aufladungen des Shooters:"
+      - '<size=17>Veces que se ha cargado completamente el lanzador:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: 'Total bucket hits:'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Total bucket hits:'
+      - "\u0412\u0441\u0435\u0433\u043E \u043F\u043E\u043F\u0430\u0434\u0430\u043D\u0438\u0439
+        \u0432 \u043A\u043E\u0440\u0437\u0438\u043D\u0443:"
+      - "\u30D0\u30B1\u30C4\u30D2\u30C3\u30C8\u5408\u8A08\uFF1A"
+      - "\u6876\u547D\u4E2D\u603B\u6570\uFF1A"
+      - "\uCD1D \uBA85\uC911\uD55C \uD1B5: "
+      - "Nombre total d'acc\xE8s au panier\_:"
+      - 'Gesamtzahl der Eimertreffer:'
+      - 'Total de golpes al cubo:'
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UNEQUIPPED
+      TermType: 0
+      Description: 
+      Languages:
+      - UNEQUIPPED
+      - "\u041D\u0415 \u0412\u042B\u0411\u0420\u0410\u041D\u041E"
+      - "\u672A\u88C5\u5099"
+      - "\u5C1A\u672A\u88C5\u5907"
+      - "\uC7A5\uBE44\uBD80\uC871"
+      - "Non \xC9quip\xE9"
+      - "<size=20>NICHT AUSGER\xDCSTET"
+      - NO EQUIPADO
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: VIEW
+      TermType: 0
+      Description: 
+      Languages:
+      - VIEW
+      - "<size=35>\u041F\u041E\u0421\u041C\u041E\u0422\u0420\u0415\u0422\u042C"
+      - "\u95B2\u89A7"
+      - "\u67E5\u770B"
+      - "\uBCF4\uAE30"
+      - Voir
+      - ANSEHEN
+      - VISA
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: WOULD_LIKE_PRESTIGE
+      TermType: 0
+      Description: 
+      Languages:
+      - Would you like to prestige?
+      - "\u0425\u043E\u0442\u0435\u043B\u0438 \u0431\u044B \u0432\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C
+        \u043F\u0440\u0435\u0441\u0442\u0438\u0436?"
+      - "\u30D7\u30EC\u30B9\u30C6\u30FC\u30B8\u304C\u826F\u3044\u3067\u3059\u304B\uFF1F"
+      - "\u4F60\u60F3\u5A01\u671B\u5417\uFF1F"
+      - "\uD504\uB808\uC2A4\uD2F0\uC9C0\uB97C \uC6D0\uD558\uC2ED\uB2C8\uAE4C?"
+      - Souhaitez-vous du prestige ?
+      - "M\xF6chtest du Prestige?"
+      - "\xBFQuieres  hacer prestigio?"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: WelcomeBack
+      TermType: 0
+      Description: 
+      Languages:
+      - Welcome back!
+      - "<size=21>\u0421 \u0432\u043E\u0437\u0432\u0440\u0430\u0449\u0435\u043D\u0438\u0435\u043C!"
+      - "<size=21>\u304A\u304B\u3048\u308A\u306A\u3055\u3044\uFF01"
+      - "\u6B22\u8FCE\u56DE\u6765\uFF01"
+      - "<size=16>\uB3CC\uC544\uC624\uC2E0 \uAC83\uC744 \uD658\uC601\uD569\uB2C8\uB2E4!"
+      - <size=18>Bienvenue de retour !
+      - "<size=18>Willkommen zur\xFCck!"
+      - "<size=18>\xA1Bienvenido de nuevo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: X/Twitter
+      TermType: 0
+      Description: 
+      Languages:
+      - X/Twitter
+      - "\u0425/\u0422\u0432\u0438\u0442\u0442\u0435\u0440"
+      - "<size=13>\xD7/\u30C4\u30A4\u30C3\u30BF\u30FC"
+      - "X/\u63A8\u7279"
+      - "X/\uD2B8\uC704\uD130"
+      - X/Twitter
+      - X/Twitter
+      - X/Twitter
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: YES
+      TermType: 0
+      Description: 
+      Languages:
+      - YES
+      - "\u0414\u0410"
+      - "\u306F\u3044"
+      - "\u662F"
+      - "\uC608"
+      - Oui
+      - JA
+      - "S\xED"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: YOU_LOSE
+      TermType: 0
+      Description: 
+      Languages:
+      - 'You will lose:'
+      - "\u0412\u044B \u043F\u043E\u0442\u0435\u0440\u044F\u0435\u0442\u0435:"
+      - "\u3042\u306A\u305F\u306F\u8CA0\u3051\u307E\u3059\u3002"
+      - "\u4F60\u4F1A\u9057\u5931\uFF1A"
+      - "\uC783\uAC8C \uB420 \uC0AC\uD56D :"
+      - 'Tu vas perdre :'
+      - 'Du wirst Folgendes verlieren:'
+      - "T\xFA perder\xE1s:"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: Youtube
+      TermType: 0
+      Description: 
+      Languages:
+      - Youtube
+      - Youtube
+      - Youtube
+      - Youtube
+      - "\uC720\uD29C\uBE0C"
+      - Youtube
+      - Youtube
+      - Youtube
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: whileGone
+      TermType: 0
+      Description: 
+      Languages:
+      - While you were gone...
+      - "\u041F\u043E\u043A\u0430 \u0432\u0430\u0441 \u043D\u0435 \u0431\u044B\u043B\u043E..."
+      - "\u3042\u306A\u305F\u304C\u4E0D\u5728\u306E\u9593\u306B..."
+      - "\u5728\u4F60\u79BB\u5F00\u7684\u8FD9\u6BB5\u65F6\u95F4\u91CC\u2026\u2026"
+      - "\uB2F9\uC2E0\uC774 \uC5C6\uB294 \uB3D9\uC548..."
+      - 'Pendant votre absence... '
+      - "W\xE4hrend deiner Abwesenheit..."
+      - Mientras estabas ausente...
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: wishlist_steam
+      TermType: 0
+      Description: 
+      Languages:
+      - Check out the full game!
+      - "\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0438\u0442\u0435 \u043F\u043E\u043B\u043D\u0443\u044E
+        \u0432\u0435\u0440\u0441\u0438\u044E \u0438\u0433\u0440\u044B!"
+      - "\u30B2\u30FC\u30E0\u5168\u4F53\u3092\u30C1\u30A7\u30C3\u30AF\u3057\u3066\u304F\u3060\u3055\u3044!"
+      - "\u67E5\u770B\u5B8C\u6574\u6E38\u620F\uFF01"
+      - "\uC804\uCCB4 \uAC8C\uC784\uC744 \uD655\uC778\uD574\uBCF4\uC138\uC694!"
+      - "D\xE9couvrez le jeu complet\_!"
+      - Schauen Sie sich das komplette Spiel an!
+      - "\xA1Mira el juego completo!"
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: PURCHASE
+      TermType: 0
+      Description: 
+      Languages:
+      - PURCHASE
+      - "\u041F\u043E\u043A\u0443\u043F\u043A\u0430"
+      - "\u8CFC\u5165"
+      - "\u8D2D\u4E70"
+      - "\uAD6C\uC785"
+      - Achat
+      - Kaufen
+      - Compra
+      Flags: 0000000000000000
+      Languages_Touch: []
+    - Term: UPGRADE
+      TermType: 0
+      Description: 
+      Languages:
+      - UPGRADE
+      - "\u041E\u0431\u043D\u043E\u0432\u043B\u0435\u043D\u0438\u0435"
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - "\u5347\u7EA7"
+      - "\uCE58\uBC1B\uC774"
+      - "Mise \xC0 Niveau"
+      - Upgrade
+      - Mejora
+      Flags: 0000000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: App_Name
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    - Name: Japanese
+      Code: ja
+      Flags: 0
+    - Name: Chinese (Simplified)
+      Code: zh-CN
+      Flags: 0
+    - Name: Korean
+      Code: ko
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: German
+      Code: de
+      Flags: 0
+    - Name: Spanish
+      Code: es
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbxmsWnET3SaGfEJLBInfNQi9oczXunSTB8tuogWjcyBNmnUCPBzAB9CHE-tpi33MK4r/exec
+    Google_SpreadsheetKey: 1K6vqZ6MKFw9l5rIpKr95IXf2SaTkitcmUdB64zUMH6k
+    Google_SpreadsheetName: I2Loc PegIdle Localization
+    Google_LastUpdatedVersion: 1717853931226
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: 73ede848aac03cd4889e2954424b5ca8, type: 2}
+    - {fileID: 11400000, guid: 3862684b5c6061b4a9f36934541ffc3b, type: 2}
+    - {fileID: 11400000, guid: 32c26a075f2cd2a42b79d5b7b9f7850a, type: 2}
+    - {fileID: 11400000, guid: 0b51dbee9f2f047cebc9e85675fb05d5, type: 2}
+    - {fileID: 11400000, guid: cf904e908a7d80f4391525b9df0462a5, type: 2}
+    - {fileID: 11400000, guid: 6f687554a4c2395408d216f873b49e01, type: 2}
+    - {fileID: 11400000, guid: 362c96d245026bc41a108d8e313e28a1, type: 2}
+    - {fileID: 11400000, guid: 82a1d700a82bf4deb99b8510d2741468, type: 2}
+    - {fileID: 11400000, guid: 5ddc33bf4cc0e48d5be2173c89287d0e, type: 2}
+    - {fileID: 11400000, guid: 157a237f377b5472098c481862d88221, type: 2}
+    - {fileID: 11400000, guid: ac808af45d56641bd8fd297680e5f1d8, type: 2}
+    - {fileID: 11400000, guid: 44d1db69cd36f45968a97961a98720c9, type: 2}
+    - {fileID: 11400000, guid: c11de13be4d2d4107ac19ca8c5fcba17, type: 2}
+    - {fileID: 11400000, guid: 5a7f4233285384a448b16ddd0828cb05, type: 2}
+    - {fileID: 11400000, guid: 23fefbf935fe142d5b724fe3ac908231, type: 2}
+    - {fileID: 11400000, guid: 6a4acc1fd665c457b814944ef9f70717, type: 2}
+    - {fileID: 11400000, guid: 6408d6b625252462dbf675f3a4945e11, type: 2}
+    - {fileID: 11400000, guid: 35bebacd135324696aa1362e528012c6, type: 2}
+    - {fileID: 11400000, guid: d67edce7cf9164e1293042f9d9da494d, type: 2}
+    - {fileID: 11400000, guid: b741db7ac3d1c423aad5b49a9780ca2d, type: 2}
+    - {fileID: 11400000, guid: 6ecbe1defc55a463ba1172f67f84844b, type: 2}
+    - {fileID: 11400000, guid: 7659f6d6ec9b642db8be29bc45fe97cc, type: 2}
+    - {fileID: 11400000, guid: 5b0bbf0192b9788428af7b485b543c86, type: 2}
+    - {fileID: 11400000, guid: 24a8e9b0bc5121a4b96655093e64fc19, type: 2}
+    - {fileID: 11400000, guid: 3015d2c5ebbad4fbc944c8238764609f, type: 2}
+    - {fileID: 11400000, guid: 0e1eb7355a76a1545b05e444c4c5e223, type: 2}
+    - {fileID: 11400000, guid: ef3786d1e17e3d64f8137ad544fe2913, type: 2}
+    - {fileID: 11400000, guid: 514ec9c46a621264bb05174c9f0fa46b, type: 2}
+    - {fileID: 11400000, guid: bf3c875daf75fe049bcfd091957067fd, type: 2}
+    - {fileID: 11400000, guid: c97e4a03f65789a429e779caa1d747f4, type: 2}
+    - {fileID: 11400000, guid: ba1c7b799c4d15c49bef3f0eb6ca6f44, type: 2}
+    - {fileID: 11400000, guid: 682401a7803e8ea488f0a58654138692, type: 2}
+    - {fileID: 11400000, guid: f3a2958675ed03d4abecbbcb4fde46ed, type: 2}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

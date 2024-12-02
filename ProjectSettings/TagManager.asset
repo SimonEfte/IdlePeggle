@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BasicPeg
+  - BasicBall
+  - PitCollider
+  - FxTemporaire
+  - PitText
+  - PegText
+  - PrestigePeg
+  - GoldPeg
+  - AutoBall
+  - RedBall
+  - RedBallAuto
+  - GoldPegText
+  - RockBall
+  - RockBallAuto
+  - BombBall
+  - BombBallAuto
+  - TinyBall
+  - DemoLocked
+  - PrestigePegText
+  - FullFillBalls
+  - RoundPrestigeUpgrade
+  - SquarePrestigeUpgrade
+  - LevelPrestigeUpgrade
+  - RedPeg
+  - BucketColl
+  - BucketText
+  - LevelSelect
+  - AquaBall
+  - MudBall
+  - BasketBall
+  - PlumBall
+  - StickyBall
+  - CandyBall
+  - CookieBall
+  - LimeBall
+  - GoldenBall
+  - FootBall
+  - SharpnelBall
+  - ZonicBall
+  - ApricotBall
+  - PeggoBall
+  - GhostBall
+  - StarBall
+  - RainbowBall
+  - GlitchyBall
+  - TinySharpnel
+  - TinyRingBall
+  - PrestigeGem
+  - GoldCoin
+  - PegHit
+  - TinyGlitchyBall
+  - PrestigeText
+  - Flagh
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Walls
+  - BounceTiles
+  - BucketCollider
+  - BallShot
+  - Pit
+  - GreenPeg
+  - GoldPeg
+  - PrestigePeg
+  - RedPeg
+  - BallDropped
+  - FullFill
+  - 
+  - CoinAndGem
+  - PeggoBall
+  - GlitchyBall
+  - BombPeg
+  - PurplePeg
+  - 
+  - 
+  - GoldenPegTextBALLSHOT
+  - GoldenPegTextBALLDROPPED
+  - BucketTextBALLSHOT
+  - BucketTextBALLDROPPED
+  - PrestigePegText
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
