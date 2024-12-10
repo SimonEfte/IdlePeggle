@@ -11,7 +11,7 @@ public class MobileScript : MonoBehaviour
 
     public void Awake()
     {
-        isMobile = true;
+        isMobile = false;
         if(isMobile == true)
         {
             Application.targetFrameRate = 60;
@@ -254,5 +254,8 @@ public class MobileScript : MonoBehaviour
     {
         Application.OpenURL("https://play.google.com/store/apps/details?id=com.eagleeyegames.pegidle");
     }
-
+    public void AppStoreLink()
+    {
+        Application.OpenURL("https://apps.apple.com/us/app/pegidle/id6739036408");
+    }
 }
