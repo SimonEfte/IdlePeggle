@@ -289,11 +289,11 @@ public class Achievements : MonoBehaviour, IDataPersistence
 
         if (GameData.isDemo == false)
         {
-           //var ach = new Steamworks.Data.Achievement(achNAME);
-            //if (ach.State == false)
-            //{
-             //   ach.Trigger();
-            //}
+            //  var ach = new Steamworks.Data.Achievement(achNAME);
+            //  if (ach.State == false)
+            //  {
+            //   ach.Trigger();
+            //  }
 
             newAchLocked[achNumber].SetActive(false);
             newAchCompleted[achNumber] = true;
@@ -400,7 +400,7 @@ public class Achievements : MonoBehaviour, IDataPersistence
 
         if (GameData.isDemo == false)
         {
-            //var ach = new Steamworks.Data.Achievement(achNAME);
+           // var ach = new Steamworks.Data.Achievement(achNAME);
             //if (ach.State == false)
             //{
             //    ach.Trigger();

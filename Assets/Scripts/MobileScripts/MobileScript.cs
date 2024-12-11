@@ -7,17 +7,18 @@ using UnityEngine.UI;
 public class MobileScript : MonoBehaviour
 {
     public static bool isMobile;
-    public GameObject getItOnGooglePlay, settingsExclIcon;
+    public GameObject getItOnGooglePlay, getitOnAppstore, settingsExclIcon;
 
     public void Awake()
     {
-        isMobile = false;
+        isMobile = true;
         if(isMobile == true)
         {
             Application.targetFrameRate = 60;
 
             settingsExclIcon.transform.localPosition = new Vector2(53.5f, -5.7f);
             getItOnGooglePlay.SetActive(false);
+            getitOnAppstore.SetActive(false);
 
             SetGameobjectsOff();
             SetSettings();
@@ -31,13 +32,11 @@ public class MobileScript : MonoBehaviour
             else
             {
                 fullGameBtn.SetActive(true);
-            
             }
         }
         else
         {
           
-        
         }
     }
 

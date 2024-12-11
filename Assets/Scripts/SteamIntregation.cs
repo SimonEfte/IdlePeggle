@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class SteamIntregation : MonoBehaviour
 {
-    // Start is called before the first frame update
     public static bool noSteamInt;
 
     public void Awake()
@@ -18,11 +17,11 @@ public class SteamIntregation : MonoBehaviour
         {
             try
             {
-                // Steamworks.SteamClient.Init(2821890);
+                //Steamworks.SteamClient.Init(2821890);
             }
             catch (System.Exception e)
             {
-                //  Debug.Log(e);
+                // Debug.Log(e);
             }
         }
     }
@@ -39,7 +38,7 @@ public class SteamIntregation : MonoBehaviour
     {
         if (noSteamInt == false)
         {
-            //   Steamworks.SteamClient.Shutdown();
+            // Steamworks.SteamClient.Shutdown();
         }
     }
 }
